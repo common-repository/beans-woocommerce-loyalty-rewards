@@ -1,0 +1,10 @@
+/* Woocommerce */
+.woocommerce-remove-coupon[data-coupon="redeem_points"],
+.woocommerce-remove-coupon[data-coupon="redeem_tiers"] {
+    display: none;
+}
+
+/* Snow */
+.ectomycorrhiza-icon img + img {
+    display:none !important;
+}
